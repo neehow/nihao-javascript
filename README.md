@@ -1,5 +1,5 @@
 # nihao-javascript
-Javascript snippets  
+Javascript snippets  
 你好，JS
 
 The code is in nihao.js file.  
