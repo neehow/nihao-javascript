@@ -1,4 +1,6 @@
 # nihao-javascript
-Javascript snippets
-The code is in nihao.js file.
+Javascript snippets  
+你好，JS
+
+The code is in nihao.js file.  
 Thanks.
