@@ -11,3 +11,7 @@ var arr2 = [...new Set(arr)];
 // copy an array
 var arr = [1, 2, 3, 4, 5];
 var arr2 = arr.slice();
+
+// b raised to the power of e
+var b = 2, e = 5;
+var result = 2 ** 5;
