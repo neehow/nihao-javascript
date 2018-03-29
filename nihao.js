@@ -1,4 +1,5 @@
-// code snippets are put in one file just for ease of read, so there are redefinitions of variables.
+// Code snippets are put in one file just for ease of read, so there are redefinitions of variables.
+// New features from ES6 or after will be used.
 
 // randomly sort an array
 var arr = [1, 2, 3, 4, 5];
